@@ -1,0 +1,50 @@
+{
+  "name": "dreamfx",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.6.0",
+    "@radix-ui/react-avatar": "^1.0.4",
+    "@radix-ui/react-label": "^2.0.2",
+    "@react-three/drei": "^9.106.0",
+    "@react-three/fiber": "^8.16.8",
+    "@sentry/nextjs": "^8.7.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "dwolla-v2": "^3.4.0",
+    "framer-motion": "^11.2.10",
+    "lucide-react": "^0.387.0",
+    "next": "14.2.3",
+    "next-themes": "^0.3.0",
+    "node-appwrite": "^11.1.1",
+    "query-string": "^9.0.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.51.5",
+    "react-icons": "^5.2.1",
+    "react-lottie": "^1.2.4",
+    "react-plaid-link": "^3.5.1",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss-animate": "^1.0.7",
+    "three": "^0.165.0",
+    "three-globe": "^2.31.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-lottie": "^1.2.10",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
